@@ -14,6 +14,8 @@ The program provides an interactive experience where users can experiment with t
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
