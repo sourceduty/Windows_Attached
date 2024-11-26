@@ -90,6 +90,18 @@ On the other hand, detached windows offer greater flexibility by operating indep
 |                                                     | |                   |
 +-----------------------------------------------------+ +-------------------+
 
+7. Notched Large Primary Window + Smaller Attached Window (Conceptual)
+
++------------------------------------------------------+ 
+|                                                      | 
+|                 Primary Window                       | 
+|                                                      | 
+|                              | --------------------- |
+|                              | +-----------------------+
+|                              | |                       |                     
++------------------------------| |    Attached Window    |
+                                 |                       |
+                                 +-----------------------+
 ```
 
 #
