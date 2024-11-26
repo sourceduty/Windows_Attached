@@ -81,6 +81,11 @@ Additionally, this feature could be leveraged in software used for design, video
 ```
 
 #
+### Overlapped Attached
+
+Overlapping, cascading attached windows involve arranging multiple windows in a staggered fashion, where each subsequent window is slightly offset from the one before it, creating a cascade effect. This setup allows users to view several windows simultaneously, with the ability to quickly switch between them while still maintaining a sense of spatial organization. In this configuration, the windows remain attached to the primary window, meaning they follow its movements and are repositioned together. This can be particularly useful in applications where multiple related views or tools need to be accessed at once, such as in design software or data analysis, where users benefit from having several panels or previews open but still need to maintain an organized workspace without overwhelming the screen.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
