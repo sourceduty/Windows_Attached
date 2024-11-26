@@ -35,14 +35,7 @@ Additionally, this feature could be leveraged in software used for design, video
 |                   |
 +-------------------+
 
-3. Primary Window + Detached Window
-
-+-------------------+   +-------------------+
-|   Primary Window  |   |   Detached Window |
-|                   |   |                   |
-+-------------------+   +-------------------+
-
-4. Two Attached Windows (Side by side)
+3. Two Attached Windows (Side by side)
 
 +-------------------+   +-------------------+
 |  Primary Window   |   |  Attached Window  |
@@ -53,7 +46,7 @@ Additionally, this feature could be leveraged in software used for design, video
 |                   |   |                   |
 +-------------------+   +-------------------+
 
-5. Primary Window + Multiple Attached Windows (Vertical stack)
+4. Primary Window + Multiple Attached Windows (Vertical stack)
 
 +-------------------+
 |  Primary Window   |
@@ -68,7 +61,7 @@ Additionally, this feature could be leveraged in software used for design, video
 |                   |
 +-------------------+
 
-6. Large Primary Window + Mutiple Smaller Detached Windows
+5. Large Primary Window + Mutiple Smaller Attached Windows
 
 +-----------------------------------------------------+ +-------------------+
 |                                                     | |  Attached Window  |
@@ -79,7 +72,7 @@ Additionally, this feature could be leveraged in software used for design, video
 |                                                     | |                   |
 +-----------------------------------------------------+ +-------------------+
 
-7. Large Primary Window + Smaller Detached Window
+6. Large Primary Window + Smaller Attached Window
 
 +-----------------------------------------------------+ 
 |                                                     | 
