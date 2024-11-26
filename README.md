@@ -15,7 +15,7 @@ The program provides an interactive experience where users can experiment with t
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
-[Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
+[Quantive OS](https://github.com/sourceduty/Quantive_OS)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
