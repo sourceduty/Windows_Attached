@@ -8,13 +8,20 @@ This program demonstrates how to create two separate windows in a graphical user
 The program provides an interactive experience where users can experiment with the functionality of multiple windows in a desktop application. It includes a description of its purpose displayed in Window 2 and utilizes a dark theme for a modern look. The program also demonstrates how to dynamically update the position of one window based on the movements of another, as well as how to unbind events to allow independent movement of windows. This program highlights essential concepts such as window management, event handling, and GUI design using Tkinter, offering a simple yet effective way to explore these features.
 
 #
-### Uitilization
+### Attachment Uitilization
 
 ![Windows_Attached](https://github.com/user-attachments/assets/1620f6d3-090b-4d63-bd2e-056455fc8e26)
 
 The concept of attaching and detaching windows, as demonstrated in the "Windows_Attached" repository, can be useful in applications where multiple pieces of information or tools need to be viewed and interacted with simultaneously. For example, this functionality could be used in productivity applications such as code editors, where users might need to keep documentation or preview windows alongside the code they are working on. It could also be used in data analysis tools, where one window displays a set of raw data and another shows visualizations or statistics that update in real time. The ability to attach and detach windows allows users to tailor their workspace, improving multitasking and efficiency.
 
 Additionally, this feature could be leveraged in software used for design, video editing, or project management, where a main window might need to be accompanied by several supplementary tool or control panels. For instance, in design software, a primary canvas window could be paired with a color palette, tool settings, or asset library that can follow the main window or be detached to a separate screen. Similarly, project management tools could use this system to keep key task lists or communication feeds visible while users work on other details, enhancing focus and accessibility. Overall, this design pattern can enhance user experience in environments that require constant reference to multiple elements of a workspace.
+
+#
+### Attachment Types
+
+Window attachment types offer versatile ways to organize and manage multiple interfaces within an application, enhancing user productivity and workflow efficiency. Attached windows can be positioned to the right or bottom of the primary window, allowing supplementary tools, palettes, or information panels to remain within easy reach without occupying excessive screen space. For instance, a right-attached window might host a toolbox in a design application, while a bottom-attached window could display logs or consoles in a development environment. Additionally, configurations such as two attached windows side by side or multiple attached windows stacked vertically provide structured layouts for complex applications, enabling users to access various functionalities simultaneously without cluttering the main workspace. These arrangements ensure that related tools and information are logically grouped, facilitating a seamless and organized user experience.
+
+On the other hand, detached windows offer greater flexibility by operating independently of the primary window, allowing users to position them freely across the screen. This is particularly useful for floating toolboxes, separate documentation, or reference materials that users might need to access intermittently without being tethered to the main interface. Furthermore, the overlapped cascade attachment type arranges multiple attached windows in a staggered, cascading manner, ensuring that several windows remain visible simultaneously while maintaining spatial organization. This setup is ideal for scenarios requiring the simultaneous view of multiple related panels or previews, such as in data analysis or integrated development environments (IDEs). By combining both attached and detached window configurations, applications can cater to diverse user preferences and tasks, offering a balanced mix of organization and flexibility that enhances overall usability and efficiency.
 
 ```
 1. Primary Window + Attached Window (Right side)
