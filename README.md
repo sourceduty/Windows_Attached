@@ -79,6 +79,17 @@ Additionally, this feature could be leveraged in software used for design, video
 |                                                     | |                   |
 +-----------------------------------------------------+ +-------------------+
 
+7. Large Primary Window + Smaller Detached Window
+
++-----------------------------------------------------+ 
+|                                                     | 
+|                                                     | 
+|                   Primary Window                    | 
+|                                                     | +-------------------+
+|                                                     | |  Attached Window  |
+|                                                     | |                   |
++-----------------------------------------------------+ +-------------------+
+
 ```
 
 #
