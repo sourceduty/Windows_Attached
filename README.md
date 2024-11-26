@@ -90,18 +90,18 @@ Overlapping, cascading attached windows involve arranging multiple windows in a 
 |   Primary Window  |
 |                   |
 +-------------------+
-+-------------------+
-| Attached Window 1 |
-|                   |
-+-------------------+
-+-------------------+
-| Attached Window 2 |
-|                   |
-+-------------------+
-+-------------------+
-| Attached Window 3 |
-|                   |
-+-------------------+
+      +-------------------+
+      | Attached Window 1 |
+      |                   |
+      +-------------------+
+            +-------------------+
+            | Attached Window 2 |
+            |                   |
+            +-------------------+
+                  +-------------------+
+                  | Attached Window 3 |
+                  |                   |
+                  +-------------------+
 ```
 
 #
