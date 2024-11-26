@@ -20,18 +20,18 @@ Additionally, this feature could be leveraged in software used for design, video
 1. Primary Window + Attached Window (Right side)
 
 +-------------------+   +-------------------+
-|   Primary Window  |   |   Attached Window |
+|   Primary Window  |   |  Attached Window  |
 |                   |   |                   |
 +-------------------+   +-------------------+
 
 2. Primary Window + Attached Window (Bottom side)
 
 +-------------------+
-|   Primary Window  |
+|  Primary Window   |
 |                   |
 +-------------------+
 +-------------------+
-|   Attached Window |
+|  Attached Window  |
 |                   |
 +-------------------+
 
@@ -45,26 +45,26 @@ Additionally, this feature could be leveraged in software used for design, video
 4. Two Attached Windows (Side by side)
 
 +-------------------+   +-------------------+
-|   Primary Window  |   |   Attached Window |
+|  Primary Window   |   |  Attached Window  |
 |                   |   |                   |
 +-------------------+   +-------------------+
 +-------------------+   +-------------------+
-|   Attached Window |   |   Attached Window |
+|  Attached Window  |   |  Attached Window  |
 |                   |   |                   |
 +-------------------+   +-------------------+
 
 5. Primary Window + Multiple Attached Windows (Vertical stack)
 
 +-------------------+
-|   Primary Window  |
+|  Primary Window   |
 |                   |
 +-------------------+
 +-------------------+
-|   Attached Window |
+|  Attached Window  |
 |                   |
 +-------------------+
 +-------------------+
-|   Attached Window |
+|  Attached Window  |
 |                   |
 +-------------------+
 ```
