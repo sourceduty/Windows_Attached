@@ -23,7 +23,6 @@ Additionally, this feature could be leveraged in software used for design, video
 |   Primary Window  |   |   Attached Window |
 |                   |   |                   |
 +-------------------+   +-------------------+
-                          (Follows Primary Window)
 
 2. Primary Window + Attached Window (Bottom side)
 
@@ -31,13 +30,10 @@ Additionally, this feature could be leveraged in software used for design, video
 |   Primary Window  |
 |                   |
 +-------------------+
-         |
-         v
 +-------------------+
 |   Attached Window |
 |                   |
 +-------------------+
-      (Follows Primary Window)
 
 3. Primary Window + Detached Window
 
@@ -52,8 +48,6 @@ Additionally, this feature could be leveraged in software used for design, video
 |   Primary Window  |   |   Attached Window |
 |                   |   |                   |
 +-------------------+   +-------------------+
-         |                    |
-         v                    v
 +-------------------+   +-------------------+
 |   Attached Window |   |   Attached Window |
 |                   |   |                   |
@@ -65,19 +59,14 @@ Additionally, this feature could be leveraged in software used for design, video
 |   Primary Window  |
 |                   |
 +-------------------+
-         |
-         v
 +-------------------+
 |   Attached Window |
 |                   |
 +-------------------+
-         |
-         v
 +-------------------+
 |   Attached Window |
 |                   |
 +-------------------+
-         (Follows Primary Window)
 ```
 
 #
